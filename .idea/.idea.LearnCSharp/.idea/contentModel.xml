@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\HP\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\HP\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_LearnCSharp.1536542137.00" t="ExcludeRecursive" />
+    <e p="D:\unityworkplace\LearnCSharp" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="EditorWindowsTest.cs" t="Include" />
+          <e p="MenuTest.cs" t="Include" />
+          <e p="MyEditor.cs" t="Include" />
+          <e p="SceneEditor.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Attribute" t="Include">
+            <e p="ChenClass.cs" t="Include" />
+            <e p="CustomAttribute.cs" t="Include" />
+            <e p="MyOwnEditor" t="Include">
+              <e p="AttributeTest.cs" t="Include" />
+              <e p="EditorTest.cs" t="Include" />
+              <e p="SceneTest.cs" t="Include" />
+            </e>
+          </e>
+          <e p="NewBehaviourScript.cs" t="Include" />
+          <e p="NewBehaviourScript1.cs" t="Include" />
+          <e p="NewBehaviourScript2.cs" t="Include" />
+          <e p="NewBehaviourScript3.cs" t="Include" />
+          <e p="委托与事件" t="Include">
+            <e p="DelegateInformation.cs" t="Include" />
+            <e p="DelegateTest.cs" t="Include" />
+          </e>
+          <e p="序列化" t="Include">
+            <e p="Hero.cs" t="Include" />
+            <e p="SerializationTest.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="LearnCSharp.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
