@@ -12,14 +12,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/移动平台读取外部文件/WWWFormScore.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/序列化/SerializationTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/序列化/Hero.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/xml-to-egg/Test.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/移动平台读取外部文件/TestResources.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/序列化/SerializationTest.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/序列化/Hero.cs" />
+        <option value="$PROJECT_DIR$/Assets/xml-to-egg/Test.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/移动平台读取外部文件/TestResources.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/移动平台读取外部文件/TestStreamingAssests.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/移动平台读取外部文件/WWWFormScore.cs" />
       </list>
     </option>
   </component>
@@ -76,6 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568100306331</updated>
       <workItem from="1568100310754" duration="2900000" />
+      <workItem from="1568272805838" duration="3397000" />
     </task>
     <servers />
   </component>
@@ -89,7 +97,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

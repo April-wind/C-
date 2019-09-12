@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\HP\.Rider2019.2\system\extResources" t="IncludeRecursive" />
@@ -12,6 +12,9 @@
           <e p="MenuTest.cs" t="Include" />
           <e p="MyEditor.cs" t="Include" />
           <e p="SceneEditor.cs" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="Test.xml" t="Include" />
         </e>
         <e p="Scripts" t="Include">
           <e p="Attribute" t="Include">
@@ -35,6 +38,18 @@
             <e p="Hero.cs" t="Include" />
             <e p="SerializationTest.cs" t="Include" />
           </e>
+          <e p="移动平台读取外部文件" t="Include">
+            <e p="TestResources.cs" t="Include" />
+            <e p="TestStreaming.cs" t="Include" />
+            <e p="WWWFormScore.cs" t="Include" />
+          </e>
+        </e>
+        <e p="StreamingAssets" t="Include">
+          <e p="Test.xml" t="Include" />
+        </e>
+        <e p="xml-to-egg" t="Include">
+          <e p="Test.cs" t="Include" />
+          <e p="Test.xml" t="Include" />
         </e>
       </e>
       <e p="LearnCSharp.sln" t="IncludeFlat" />
