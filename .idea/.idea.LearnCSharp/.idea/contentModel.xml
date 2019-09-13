@@ -8,6 +8,7 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Editor" t="Include">
+          <e p="CreateAssetBundles.cs" t="Include" />
           <e p="EditorWindowsTest.cs" t="Include" />
           <e p="MenuTest.cs" t="Include" />
           <e p="MyEditor.cs" t="Include" />
@@ -39,7 +40,9 @@
             <e p="SerializationTest.cs" t="Include" />
           </e>
           <e p="移动平台读取外部文件" t="Include">
+            <e p="RunScript.cs" t="Include" />
             <e p="TestResources.cs" t="Include" />
+            <e p="TestScript.cs" t="Include" />
             <e p="TestStreaming.cs" t="Include" />
             <e p="WWWFormScore.cs" t="Include" />
           </e>

@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Xml;
+using UnityEditor;
 using UnityEngine;
 
 public class TestResources : MonoBehaviour
@@ -32,5 +33,7 @@ public class TestResources : MonoBehaviour
         titleStyle.fontSize = 20;
         titleStyle.normal.textColor = new Color(46f/256f, 163f/256f, 256f/256f, 256f/256f);
         GUI.Label(new Rect(400, 10, 500, 200), result, titleStyle);
+        
+        
     }
 }
