@@ -15,6 +15,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/移动平台读取外部文件/WWWFormScore.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/移动平台读取外部文件/TestScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/移动平台读取外部文件/RunScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Linq/LinqTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/序列化/SerializationTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/序列化/Hero.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs" root0="FORCE_HIGHLIGHTING" />
@@ -39,6 +40,7 @@
         <option value="$PROJECT_DIR$/Assets/Editor/CreateAssetBundles.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/移动平台读取外部文件/ReanAssetbundle.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/移动平台读取外部文件/RunScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Linq/LinqTest.cs" />
       </list>
     </option>
   </component>
@@ -54,6 +56,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -97,7 +100,8 @@
       <workItem from="1568100310754" duration="2900000" />
       <workItem from="1568272805838" duration="4170000" />
       <workItem from="1568362890796" duration="5963000" />
-      <workItem from="1568373360211" duration="5665000" />
+      <workItem from="1568373360211" duration="6271000" />
+      <workItem from="1568642354928" duration="1827000" />
     </task>
     <servers />
   </component>
@@ -125,6 +129,8 @@
   <component name="WindowStateProjectService">
     <state x="270" y="366" width="977" height="713" key="SettingsEditor" />
     <state x="270" y="366" width="977" height="713" key="SettingsEditor/2560.1440" />
+    <state x="864" y="444" key="run.anything.popup" />
+    <state x="864" y="444" key="run.anything.popup/2560.1440" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

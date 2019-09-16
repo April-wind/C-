@@ -27,6 +27,9 @@
               <e p="SceneTest.cs" t="Include" />
             </e>
           </e>
+          <e p="Linq" t="Include">
+            <e p="LinqTest.cs" t="Include" />
+          </e>
           <e p="NewBehaviourScript.cs" t="Include" />
           <e p="NewBehaviourScript1.cs" t="Include" />
           <e p="NewBehaviourScript2.cs" t="Include" />
