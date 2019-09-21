@@ -17,6 +17,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/移动平台读取外部文件/RunScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Linq/LinqTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/序列化/SerializationTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/数据结构/LRUCache.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/序列化/Hero.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/xml-to-egg/Test.cs" root0="FORCE_HIGHLIGHTING" />
@@ -41,6 +42,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/移动平台读取外部文件/ReanAssetbundle.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/移动平台读取外部文件/RunScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Linq/LinqTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/数据结构/LRUTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/数据结构/LRUCache.cs" />
       </list>
     </option>
   </component>
@@ -101,7 +104,9 @@
       <workItem from="1568272805838" duration="4170000" />
       <workItem from="1568362890796" duration="5963000" />
       <workItem from="1568373360211" duration="6271000" />
-      <workItem from="1568642354928" duration="1827000" />
+      <workItem from="1568642354928" duration="2459000" />
+      <workItem from="1569053278996" duration="5531000" />
+      <workItem from="1569083422045" duration="2175000" />
     </task>
     <servers />
   </component>
